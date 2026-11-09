@@ -1,0 +1,16 @@
+================================
+     SMART PARKING RECEIPT
+================================
+Vehicle Number : AP12AD2345
+Parking Slot   : 1
+Entry Time     : 09-11-2026 11:22:29
+Exit Time      : 09-11-2026 11:23:20
+Duration       : 0 minutes
+Billable Hours : 1
+Rate Per Hour  : Rs. 20
+--------------------------------
+TOTAL FEE      : Rs. 20
+PAYMENT STATUS : UNPAID
+================================
+       THANK YOU!
+================================

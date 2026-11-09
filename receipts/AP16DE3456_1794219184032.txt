@@ -1,0 +1,16 @@
+================================
+       SMART PARKING RECEIPT
+================================
+Vehicle Number : AP16DE3456
+Owner Name     : raji
+Vehicle Type   : Car
+Parking Slot   : 1
+Entry Time     : 09-11-2026 15:43:03
+Booked Hours   : 1
+Rate Per Hour  : Rs. 20
+TOTAL PAID     : Rs. 20
+PAYMENT STATUS : PAID
+EXIT TIME      : Pending
+================================
+          THANK YOU!
+================================

@@ -1,0 +1,17 @@
+================================
+       SMART PARKING RECEIPT
+================================
+Vehicle Number : AP05AB1234
+Owner Name     : sarayu
+Vehicle Type   : Car
+Parking Slot   : 1
+Entry Time     : 09-11-2026 14:20:08
+Exit Time      : 09-11-2026 14:33:09
+Duration       : 13 minutes
+Billable Hours : 1
+Rate Per Hour  : Rs. 20
+TOTAL PAID     : Rs. 40
+PAYMENT STATUS : PAID
+================================
+          THANK YOU!
+================================

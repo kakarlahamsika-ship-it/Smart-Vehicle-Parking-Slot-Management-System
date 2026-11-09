@@ -1,0 +1,101 @@
+SMART VEHICLE PARKING HISTORY
+--------------------------------
+Vehicle Number: AP39AB1234
+Parking Slot: 1
+Entry Time: 2026-11-09T10:24:09.370343100
+Exit Time: 2026-11-09T10:24:24.460635200
+Duration: 0 minutes
+Parking Fee: Rs. 20
+--------------------------------
+
+SMART VEHICLE PARKING HISTORY
+--------------------------------
+Vehicle Number: AP12AB2345
+Parking Slot: 1
+Entry Time: 2026-11-09T10:28:15.300432800
+Exit Time: 2026-11-09T10:28:39.895481700
+Duration: 0 minutes
+Parking Fee: Rs. 20
+--------------------------------
+
+SMART VEHICLE PARKING HISTORY
+--------------------------------
+Vehicle Number: AB12AR234
+Parking Slot: 1
+Entry Time: 2026-11-09T10:50:23.679694700
+Exit Time: 2026-11-09T10:58:19.914352600
+Duration: 7 minutes
+Billable Hours: 1
+Parking Fee: Rs. 20
+Payment Status: PAID
+--------------------------------
+
+================================
+     SMART PARKING RECEIPT
+================================
+Vehicle Number : AP12AD1234
+Parking Slot   : 1
+Entry Time     : 09-11-2026 11:05:26
+Exit Time      : 09-11-2026 11:06:35
+Duration       : 1 minutes
+Billable Hours : 1
+Rate Per Hour  : Rs. 20
+--------------------------------
+TOTAL FEE      : Rs. 20
+PAYMENT STATUS : PAID
+================================
+       THANK YOU!
+================================
+
+--------------------------------
+
+================================
+     SMART PARKING RECEIPT
+================================
+Vehicle Number : AP12AD2345
+Parking Slot   : 1
+Entry Time     : 09-11-2026 11:22:29
+Exit Time      : 09-11-2026 11:23:20
+Duration       : 0 minutes
+Billable Hours : 1
+Rate Per Hour  : Rs. 20
+--------------------------------
+TOTAL FEE      : Rs. 20
+PAYMENT STATUS : UNPAID
+================================
+       THANK YOU!
+================================
+
+--------------------------------
+
+================================
+     SMART PARKING RECEIPT
+================================
+Vehicle Number : AP12AD2345
+Parking Slot   : 1
+Entry Time     : 09-11-2026 11:24:33
+Exit Time      : 09-11-2026 11:24:53
+Duration       : 0 minutes
+Billable Hours : 1
+Rate Per Hour  : Rs. 20
+--------------------------------
+TOTAL FEE      : Rs. 20
+PAYMENT STATUS : PAID
+================================
+       THANK YOU!
+================================
+
+--------------------------------
+
+Vehicle: AP05AB1234
+Owner: sarayu
+Type: Car
+Slot: 1
+Entry: 09-11-2026 14:20:08
+Exit: 09-11-2026 14:33:09
+Duration: 13 minutes
+Billable Hours: 1
+Total Paid: Rs. 40
+Payment Status: PAID
+--------------------------------
+
